@@ -1,0 +1,6 @@
+{
+  "name": "Food Delivery",
+  "description": "A feature-rich, native Android food delivery application inspired by Swiggy and Zomato. Supports browse, search, favorites, shopping cart, custom categories, checkout, order simulation, order history, and user settings with Material Design 3 and a responsive interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
