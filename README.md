@@ -65,7 +65,7 @@ Open the project using Android Studio and run it on an emulator or Android devic
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Shailaja Poojari**
 
