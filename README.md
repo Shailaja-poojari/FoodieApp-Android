@@ -1,4 +1,4 @@
-# 🍔 FoodieApp - Android
+#  FoodieApp - Android
 
 A modern Food Delivery Android application built using **Kotlin** and **Jetpack Compose**.
 
